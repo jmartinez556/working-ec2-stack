@@ -1,0 +1,7 @@
+.terraform
+terraform.tfstate
+terraform.tfstate.backup
+.idea
+crash.log
+.idea/*
+.idea/
